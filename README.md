@@ -29,3 +29,4 @@ Seguí estos pasos para correr la aplicación en tu computadora:
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/matutiten/rick-and-morty-app.git
+# rick-and-morty-app
